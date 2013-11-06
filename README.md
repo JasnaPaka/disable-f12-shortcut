@@ -5,7 +5,7 @@ Simple extension which disables shortcut F12 in Firefox 25 and above.
 ### Install
 
 Download extension from Mozilla Add-ons:
-* URL TODO
+https://addons.mozilla.org/firefox/addon/disable-f12-shortcut/
 
 ### Build
 
